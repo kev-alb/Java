@@ -1,1 +1,1 @@
-Das Programm dient der Konvertierung eines einzulesenden Bildes von einem Format in ein anderes. Ebenfalls wird die Komprimierung und Dekomprimierung einer Bilddatei ermöglicht. Es wurde im Rahmen des Grundpraktikums Programmierung im Bachelor Informatik angefertigt.
+Das Programm dient der Konvertierung eines einzulesenden Bildes von einem Format in ein anderes. Ebenfalls wird die Komprimierung und Dekomprimierung einer Bilddatei ermöglicht. Es wurde im Rahmen des Grundpraktikums Programmierung im Bachelor Informatik angefertigt und wird über die Kommandozeile gestartet.
